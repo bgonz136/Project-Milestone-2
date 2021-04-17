@@ -7,7 +7,7 @@ import SignUp from './views/SignUp.vue'
 import NotFound from './views/NotFound.vue'
 import BestSellers from './views/BestSellers.vue'
 import Deals from './views/Deals.vue'
-import Cart from "./views/Cart.vue"
+import Cart from './views/Cart.vue'
 import { isAuthenticated } from './helpers/useAuth'
 
 const routes = [
