@@ -8,3 +8,7 @@
   <Games />
 </template>
 
+
+<script setup>
+import { user } from '../helpers/useAuth'
+</script>

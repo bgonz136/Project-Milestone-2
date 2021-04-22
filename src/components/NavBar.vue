@@ -47,6 +47,12 @@
           >
             Account
           </router-link>
+          <router-link
+            to="/cart"
+            class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+          >
+            Cart
+          </router-link>
           <button
             class="btn btn-error btn-sm rounded-btn hover:text-content-100"
             @click="logout"

@@ -3,3 +3,4 @@
         <Game v-for="n in 10" :key="n"/>
     </div>
 </template>
+
