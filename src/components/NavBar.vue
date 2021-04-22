@@ -45,12 +45,6 @@
             to="/secret"
             class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
           >
-            Account
-          </router-link>
-          <router-link
-            to="/cart"
-            class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
-          >
             Cart
           </router-link>
           <button
