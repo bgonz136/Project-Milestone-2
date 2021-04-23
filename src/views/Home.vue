@@ -1,6 +1,6 @@
 <template>
   <div class="mt-8">
-    <p class="text-3xl mx-auto text-center m-16 tracking-wider font-thin">
+    <p class="text-3xl mx-auto text-center m-16 tracking-wider font-semibold">
       Welcome {{ user?.displayName || 'New User' }}
     </p>
     <img class="h-60 mx-auto to-blue-800" src="../assets/games.png" alt="Home Image" />
