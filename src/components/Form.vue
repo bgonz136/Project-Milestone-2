@@ -1,6 +1,6 @@
 <template>
   <section
-    class="container flex items-center justify-center text-center bg-content-800 rounded-xl mx-auto mt-24 max-w-md"
+    class="container flex items-center justify-center text-center bg-blue-800 rounded-xl mx-auto mt-24 max-w-md"
   >
     <form @submit.prevent class="flex flex-col w-full p-12 shadow-lg">
       <label
